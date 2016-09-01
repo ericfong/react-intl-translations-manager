@@ -1,4 +1,5 @@
 {
+  "version": "3.1.0",
   "name": "react-intl-translations-manager",
   "description": "Manage all translations based on the extracted messages of the babel-plugin-react-intl",
   "main": "./dist/index.js",
